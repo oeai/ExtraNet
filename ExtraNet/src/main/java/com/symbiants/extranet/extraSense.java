@@ -9,7 +9,8 @@ public class extraSense extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.network_layout);
+        setContentView(R.layout.network_layout,);
+
     }
 
 

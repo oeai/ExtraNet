@@ -29,7 +29,7 @@
             android:text="@string/name_default"
             android:ems="10"
             android:id="@+id/xnSetName"
-            android:layout_gravity="center|right"
+            android:layout_gravity="center"
             android:gravity="center"
             android:hint="@string/set_name"
             android:textColor="#900009" />
@@ -43,30 +43,5 @@
         android:layout_alignParentRight="true"
         android:textColor="#009900"
         android:id="@+id/textView" />
-
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="40dp"
-        android:id="@+id/linearLayout">
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/find_people"
-            android:id="@+id/buttonPfind"
-            android:layout_gravity="center_horizontal|left|top" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/find_xn"
-            android:id="@+id/buttonFindXn"
-            android:layout_alignTop="@id/linearLayout"
-            android:layout_alignLeft="@+id/textView"
-            android:layout_marginLeft="33dp"
-            android:layout_gravity="center_horizontal|right|top" />
-    </LinearLayout>
 
 </RelativeLayout>

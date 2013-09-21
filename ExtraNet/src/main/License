@@ -1,0 +1,111 @@
+[I want to implement a new kind of multi license with everyone who joined or somehow
+eventually submitted code and efferts for this project 2013.09.11]
+The License of this program is pretty much LGPL alike
+maybe with some modifications, also for the used third-party code it is better to follow their rules or whatever included in license
+i will post some code links here as well, so authors could be mentioned at least and this way i will not mention
+those code snippets in the code itself, because sometimes it is annoying to see those copyrights,
+can you get copyright for used letters or native language, air, water, sun, your life?
+
+i will post license text here as well
+
+
+so right now in the beginning
+i've taken the samsung code of wifi-direct
+
+==================
+ * this code i found at samsung website, it is called nfcMediaShare, but since i think to modify it
+ * i guess some names should be modified also and i have to warn, that this code may be incompatible
+ * with original code after some time or somehow extended
+ * first of all because of security issues and high need of low traffic, so some functions will be disabled probs
+ * the original link http://developer.samsung.com/android/samples/NFC-Media-Share
+http://developer.samsung.com/android/samples/NFC-Media-Share posted here
+for classes
+
+- NFCManager
+- NFCMediaShare
+- TransferManager
+- WiFiDirectMAnager
+
+==================
+
+i'm thinking if using for wi-fi hotspot init classes
+
+
+==================
+https://github.com/nickrussler/Android-Wifi-Hotspot-Manager-Class
+
+- ClientScanResult
+- WifiApManager
+- WIFI_AP_STATE
+
+/*
+* Copyright 2013 WhiteByte (Nick Russler, Ahmet Yueksektepe).
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+==================
+
+https://github.com/fzoli/AndroidWifiManager
+
+
+
+and some more maybe for a client-server-side, just getting a brief look now on it
+
+
+==================
+https://github.com/ymerdawe/wifihunter
+searches wifi hot spots - others can do such as well
+
+==================
+
+
+==================
+https://github.com/ericwangtengyu/WifiLocator
+can be interesting to find distance between devices
+
+==================
+
+
+==================
+https://github.com/aleksandar0todorovic/AlternateWifiMeshMessaging
+
+- Data
+- Device
+- HostManager
+
+Copyright (c) 2013, aleksandar0todorovic
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+  Redistributions in binary form must reproduce the above copyright notice, this
+  list of conditions and the following disclaimer in the documentation and/or
+  other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+===================
+
+maybe in a later time i will get out of this code.
