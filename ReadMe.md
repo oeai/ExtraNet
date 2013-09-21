@@ -11,4 +11,4 @@ so it wont be available right out of the box, but after some time of use with fr
 
  WARNING this program cannot be used for any harm or bad use, illegal (unlawful) or criminal purposes, violent or antisocial behaviour.
 
-For a LiCense terms and list of contributors see License
+For a LiCense terms and list of contributors see License /ExtraNet/src/main/License
