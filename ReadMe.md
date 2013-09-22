@@ -8,6 +8,7 @@ having such network can increase violence and crimes
 here's raw basic
 * [Rules](https://github.com/oeai/ExtraNet/wiki/Rules)
 * [Правила](https://github.com/oeai/ExtraNet/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0)
+
 that cannot be violated in any such network by no means, maybe it will be modified into jedi codex or whatever
 
 this will not be the anonymous network, so every message could be identified that is much simplier to work with for many cases
