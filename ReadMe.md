@@ -4,8 +4,11 @@ eXtraNet XN0.01
 
 Because of this warning i've stopped to think on this project, you should not doing such thing because of too much of agression this time
 having such network can increase violence and crimes
-here's raw basic [Rules](https://github.com/oeai/ExtraNet/wiki/Rules) [Правила](https://github.com/oeai/ExtraNet/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0)
-that cannot being violated with any such network, that will be modified into jedi codex or whatever
+
+here's raw basic
+* [Rules](https://github.com/oeai/ExtraNet/wiki/Rules)
+* [Правила](https://github.com/oeai/ExtraNet/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0)
+that cannot be violated with any such network, that will be modified into jedi codex or whatever
 
 this will not be the anonymous network, so every message could be identified that is much simplier to work with for many cases
 but also this is a potential leak, so i got to think more on it.
@@ -28,4 +31,4 @@ so it wont be available right out of the box, but after some time of use with fr
 
 
 For a LiCense terms and list of contributors see [License](https://github.com/oeai/ExtraNet/src/main/License)
-or wiki/ [License](https://github.com/oeai/ExtraNet/wiki/License)
+or wiki / [License](https://github.com/oeai/ExtraNet/wiki/License)
