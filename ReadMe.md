@@ -1,5 +1,11 @@
 eXtraNet XN0.01
 
+ WARNING this program cannot be used for any harm or bad use, illegal (unlawful) or criminal purposes, violent or antisocial behaviour.
+
+Because of this warning i've stopped to think on this project, you should not doing such thing because of too much of agression this time
+having such network can increase violence and crimes
+here's [Rules](https://github.com/oeai/ExtraNet/wiki/Rules) that cannot being violated with any such network
+
 ExtraSense NetWork is a wifi based mesh environment for android where people could communicate with each other without the need of external internet connection.
 some kind of FidoNet - extraSenses gonna be like bbs-sysops and people communicating through them - bbs-users,
 but since there's no actual need in sysops (except being moderators for some users) because a lot of people have internet access
@@ -9,6 +15,7 @@ few text-based protocols like mail, jabber, icq, irc, feeds using it's own local
 but since this concerns some private data transmitted through other users, these services will be available through trusted users only (friends or their friends)
 so it wont be available right out of the box, but after some time of use with friends
 
- WARNING this program cannot be used for any harm or bad use, illegal (unlawful) or criminal purposes, violent or antisocial behaviour.
+
 
 For a LiCense terms and list of contributors see License /ExtraNet/src/main/License
+or wiki [License](https://github.com/oeai/ExtraNet/wiki/License)

@@ -9,7 +9,7 @@ NEXT STAGE XN1.0
 //TODO implement data storage for pending messages
 //TODO implement async internet sharing
 //TODO implement outdates for transmits
-//TODO implement delayed tranmits
+//TODO implement delayed transmits
 //TODO connect to jabber server
 //TODO fetch data from internet transmit into local
 =====================
@@ -20,6 +20,7 @@ NEXT STAGE XN2.0
 //TODO send xn id cards between hubs
 //TODO find friends among connected users in local area
 //TODO find friends among hubs
+//TODO local jabber server
 =====================
 NEXT STAGE XN3.0
 =====================
