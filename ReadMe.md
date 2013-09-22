@@ -27,5 +27,5 @@ so it wont be available right out of the box, but after some time of use with fr
 
 
 
-For a LiCense terms and list of contributors see License [License](https://github.com/oeai/ExtraNet/src/main/License)
-or wiki [License](https://github.com/oeai/ExtraNet/wiki/License)
+For a LiCense terms and list of contributors see [License](https://github.com/oeai/ExtraNet/src/main/License)
+or wiki/ [License](https://github.com/oeai/ExtraNet/wiki/License)
