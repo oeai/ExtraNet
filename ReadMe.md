@@ -10,8 +10,11 @@ that cannot being violated with any such network, that will be modified into jed
 this will not be the anonymous network, so every message could be identified that is much simplier to work with for many cases
 but also this is a potential leak, so i got to think more on it.
 
-    if you are a hacker or programmer don't help to do any crime or mods for some persons
-    если ты программер или хакер не помогай совершать преступления, не делай модов проги для непонятных людей
+    if you are a hacker or programmer
+    don't help to do any crime or mods for some persons
+    если ты прогер или хакер
+    не помогай совершать преступления,
+    не делай модов проги для непонятных людей
 
 ExtraSense NetWork is a wifi based mesh environment for android where people could communicate with each other without the need of external internet connection.
 some kind of FidoNet - extraSenses gonna be like bbs-sysops and people communicating through them - bbs-users,
